@@ -9,6 +9,10 @@ EditorBuildSettings:
     path: Assets/VisualScriptingTutorial/CompleteGame/Scenes/Loading.unity
     guid: 949e6d1aed7c1df4a8672bb8a7b76b5b
   - enabled: 1
+    path: Assets/VisualScriptingTutorial/Tutorial/Scenes/ChallengeScene.unity
+    guid: 17e2017e6ce262348ab68172df86ae3b
+  - enabled: 0
     path: Assets/VisualScriptingTutorial/CompleteGame/Scenes/SampleScene.unity
     guid: 97f15fe068245f142b7366ff39ca3606
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0
